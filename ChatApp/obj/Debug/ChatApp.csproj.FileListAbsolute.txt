@@ -1,0 +1,40 @@
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\csc.exe
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\vbc.exe
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.dll.config
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.pdb
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+c:\users\matin\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\Matin\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\csc.exe
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\vbc.exe
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\VBCSCompiler.exe
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\ChatApp.dll.config
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\ChatApp.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\ChatApp.pdb
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\obj\Debug\ChatApp.dll
+E:\MS Term 3\Cloud Computing\Project\Source\Version 04 - final\ChatApp\obj\Debug\ChatApp.pdb
